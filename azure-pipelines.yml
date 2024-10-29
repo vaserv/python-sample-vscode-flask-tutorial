@@ -8,7 +8,7 @@ trigger:
 
 pool:
   name: trashbox
-  vmImage: ubuntu-latest
+  # vmImage: ubuntu-latest
 
 strategy:
   matrix:
